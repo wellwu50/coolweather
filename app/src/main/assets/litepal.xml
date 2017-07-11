@@ -1,11 +1,11 @@
 <litepal>
-    <dbname value="cool_weather"/>
+    <dbname value="cool_wearher"/>
 
     <version value ="1"/>
 
     <list>
-        <mapping class="org.well.coolwearher.android.db.Province"/>
-        <mapping class="org.well.coolwearher.android.db.City"/>
-        <mapping class="org.well.coolwearher.android.db.County"/>
+        <mapping class="org.well.coolwearher.db.Province"/>
+        <mapping class="org.well.coolwearher.db.City"/>
+        <mapping class="org.well.coolwearher.db.County"/>
     </list>
 </litepal>
